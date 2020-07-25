@@ -25,7 +25,7 @@ class Pipeline {
        this.git_user = git_user
        this.docker_user = docker_user
        this.app_port = app_port
-       this.pr_num = pr_num,
+       this.pr_num = pr_num
        this.dockerTool = dockerTool
    }
  
