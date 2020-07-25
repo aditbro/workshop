@@ -8,7 +8,7 @@ class Pipeline {
    String git_user
    String docker_user
    String app_port
-   String pr_num,
+   String pr_num
    String dockerTool
  
    Pipeline(
